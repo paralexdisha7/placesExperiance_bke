@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"paraledisha20",
+        "DB_password":"Disha",
+        "DB_NAME":"mern",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
