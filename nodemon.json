@@ -1,9 +1,0 @@
-{
-    "env":{
-        "DB_USER":"paraledisha20",
-        "DB_password":"Disha",
-        "DB_NAME":"mern",
-        "JWT_KEY": "supersecret_dont_share",
-        "DATABASE":"mongodb+srv://paraledisha20:Disha@cluster0.psgklz7.mongodb.net/mern?retryWrites=true&w=majority"
-    }
-}
